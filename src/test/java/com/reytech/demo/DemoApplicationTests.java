@@ -1,7 +1,10 @@
 package com.reytech.demo;
-//test modifs 4
+import static org.junit.jupiter.api.Assertions.assertAll;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import com.reytech.demo.Personne;
+
 
 @SpringBootTest
 class DemoApplicationTests {
