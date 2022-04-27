@@ -12,7 +12,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-	
+	 
 	@Test
         void groupedAssertions() {
         Personne pers = new Personne("Nassur", "Moumadi");
